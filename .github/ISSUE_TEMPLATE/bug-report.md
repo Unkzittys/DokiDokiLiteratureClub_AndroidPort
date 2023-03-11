@@ -1,7 +1,7 @@
 ---
 name: Bug report
-about: Create a bug report to help me avoid problems with the game between players
-title: ''
+about: Create a bug report to help me avoid problems with the game between players.
+title: 'Some bug...'
 labels: ''
 assignees: ''
 
