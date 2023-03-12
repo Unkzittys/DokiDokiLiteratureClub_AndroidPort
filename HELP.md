@@ -19,12 +19,13 @@ The game files are present in the following path: `'/storage/emulated/0/Android/
 
 2. Once installed navigate to the game directory until this popup appears:
 
-![First Popup](https://imgur.com/PIP33qU)
+![First Popup](https://user-images.githubusercontent.com/119801899/224580857-04d7ce6a-47b4-4217-82f7-16515d223017.png)
 
 3. You should be taken to the Android directory selector. Once you're sure you're in the game folder, press the 'Use This Folder' button.
 
-![Folder Selector](https://imgur.com/7p0CJ03)
+![Folder Selector](https://user-images.githubusercontent.com/119801899/224580924-247fe3ea-4a48-437e-bea9-77ca7e85f9b8.png)
 
 4. Another popup should appear to confirm managing the files in the folder. Press 'Allow' to finish.
 
-![Second Popup](https://imgur.com/GcFasxQ)
+![Second Popup](https://user-images.githubusercontent.com/119801899/224581053-b2a11958-c522-4091-81cd-93694719ae7c.png)
+
