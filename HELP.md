@@ -29,3 +29,9 @@ The game files are present in the following path: `'/storage/emulated/0/Android/
 
 ![Second Popup](https://user-images.githubusercontent.com/119801899/224581053-b2a11958-c522-4091-81cd-93694719ae7c.png)
 
+## In-game Gestures
+
+There are currently two types of gestures that perform actions in the game:
+
+- Swipe Up: Opens the game menu.
+- Swipe Down: Hides the interface.
