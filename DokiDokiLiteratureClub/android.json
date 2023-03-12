@@ -1,0 +1,1 @@
+{"target_version": 14, "orientation": "sensorLandscape", "package": "com.unkzittys.dokidokiliteratureclub", "include_pil": false, "numeric_version": "10101", "expansion": false, "name": "Doki Doki Literature Club!", "source": false, "icon_name": "DDLC", "version": "1.1.1", "layout": null, "permissions": ["VIBRATE", "INTERNET"], "include_sqlite": false, "store": "none"}
