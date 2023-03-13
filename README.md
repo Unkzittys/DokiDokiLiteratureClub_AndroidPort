@@ -13,7 +13,7 @@ This port was made thanks to the contributors listed in the credits section belo
 - Use Android OS version 4.0 or above.
 - Have a good processor built into your device (such as Snapdragon).
 - Read the '[HELP.md](https://github.com/Unkzittys/DokiDokiLiteratureClub_AndroidPort/blob/main/HELP.md)' file before playing.
-- Report any bugs [here](https://github.com/Unkzittys/DokiDokiLiteratureClub_AndroidPort/issues/new/choose).
+- Report any bugs or suggest a new feature [here](https://github.com/Unkzittys/DokiDokiLiteratureClub_AndroidPort/issues/new/choose).
 
 ## Tools Used
 
