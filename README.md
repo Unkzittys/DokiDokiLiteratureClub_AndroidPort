@@ -8,9 +8,15 @@ This port was made thanks to the contributors listed in the credits section belo
 - '[The Ren'Py Visual Novel Engine](https://renpy.org/) by RenpyTom' for allowing the creation of the game through open source.
 - '[Unkzittys](https://github.com/Unkzittys)' (me) for creating and compiling the ported code.
 
-## Page Warnings
+## Recommendations
 
-- Please read the '[HELP.md](https://github.com/Unkzittys/DokiDokiLiteratureClub_AndroidPort/blob/main/HELP.md)' file before playing!
-- Found a bug? report it [here](https://github.com/Unkzittys/DokiDokiLiteratureClub_AndroidPort/issues/new/choose).
+- Use Android OS version 4.0 or above.
+- Have a good processor built into your device (such as Snapdragon).
+- Read the '[HELP.md](https://github.com/Unkzittys/DokiDokiLiteratureClub_AndroidPort/blob/main/HELP.md)' file before playing.
+- Report any bugs [here](https://github.com/Unkzittys/DokiDokiLiteratureClub_AndroidPort/issues/new/choose).
 
-##### Made with [Ren'Py 6.99.12](https://renpy.org/release/6.99.12).
+## Tools Used
+
+- [Ren'Py 6.99.12](https://renpy.org/release/6.99.12)
+- [UnRPYC](https://github.com/CensoredUsername/unrpyc)
+- [RPA Decompiler](https://github.com/lolbot-iichan/decompile.rpy/blob/master/depack.rpy)
