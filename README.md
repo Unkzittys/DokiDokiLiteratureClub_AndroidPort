@@ -4,12 +4,13 @@ This port was made thanks to the contributors listed in the credits section belo
 
 ## Credits
 
-• '[Team Salvato](https://teamsalvato.com/)' (Dan Salvato, Satchely and Velinquent) for game creation, development and assets.
+- '[Team Salvato](https://teamsalvato.com/)' (Dan Salvato, Satchely and Velinquent) for game creation, development and assets.
+- '[The Ren'Py Visual Novel Engine](https://renpy.org/) by RenpyTom' for allowing the creation of the game through open source.
+- '[Unkzittys](https://github.com/Unkzittys)' (me) for creating and compiling the ported code.
 
-• '[The Ren'Py Visual Novel Engine](https://renpy.org/) by RenpyTom' for allowing the creation of the game through open source.
+## Page Warnings
 
-• '[Unkzittys](https://github.com/Unkzittys)' (me) for creating and compiling the ported code.
+- Please read the '[HELP.md](https://github.com/Unkzittys/DokiDokiLiteratureClub_AndroidPort/blob/main/HELP.md)' file before playing!
+- Found a bug? report it [here](https://github.com/Unkzittys/DokiDokiLiteratureClub_AndroidPort/issues/new/choose).
 
-## About Release Date
-
-You will be able to download the game soon. In the meantime, don't hesitate to watch the changes in the repository so you don't miss out on anything new!
+##### Made with [Ren'Py 6.99.12](https://renpy.org/release/6.99.12).
