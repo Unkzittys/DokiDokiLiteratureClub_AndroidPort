@@ -1,8 +1,8 @@
 ---
 name: Bug report
 about: Create a bug report to help us avoid problems with the game between players.
-title: 'Some bug...'
-labels: 'bug'
+title: Some bug...
+labels: bug
 assignees: ''
 
 ---
